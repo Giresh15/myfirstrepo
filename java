@@ -1,3 +1,3 @@
 hi team i using java file 
 myself giresh
-u can write some code in it
+print system.out.ln(2+5);
